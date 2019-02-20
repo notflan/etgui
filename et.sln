@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "et", "et\et.csproj", "{AAC5DCAB-9ACE-4C00-9D14-4AEB1FE8ED55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etgui", "etgui\etgui.csproj", "{C74BEC4A-6F28-4111-89EB-C47F5776A436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC5DCAB-9ACE-4C00-9D14-4AEB1FE8ED55}.Debug|x86.ActiveCfg = Release|x86
+		{AAC5DCAB-9ACE-4C00-9D14-4AEB1FE8ED55}.Debug|x86.Build.0 = Release|x86
+		{AAC5DCAB-9ACE-4C00-9D14-4AEB1FE8ED55}.Release|x86.ActiveCfg = Release|x86
+		{AAC5DCAB-9ACE-4C00-9D14-4AEB1FE8ED55}.Release|x86.Build.0 = Release|x86
+		{C74BEC4A-6F28-4111-89EB-C47F5776A436}.Debug|x86.ActiveCfg = Release|x86
+		{C74BEC4A-6F28-4111-89EB-C47F5776A436}.Debug|x86.Build.0 = Release|x86
+		{C74BEC4A-6F28-4111-89EB-C47F5776A436}.Release|x86.ActiveCfg = Release|x86
+		{C74BEC4A-6F28-4111-89EB-C47F5776A436}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
